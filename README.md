@@ -1,4 +1,3 @@
-
 # To-Do-List
 
 It is a simple to-do-list, where one can add tasks to be done and remove the finished tasks.
@@ -49,14 +48,14 @@ To run tests, run the following command
 
 Contributions are always welcome!
 
-See [contributing](contributing.md) for ways to get started.
+See [contributing](CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Authors
 
-- [@Meghana-Pulivarthi](https://www.github.com/Meghana-Pulivarthi)
+[@Meghana-Pulivarthi](https://www.github.com/Meghana-Pulivarthi)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL-3.0](LICENSE)
