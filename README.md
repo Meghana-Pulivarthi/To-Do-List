@@ -25,24 +25,36 @@ Install dependencies
 Build the Project
 
 ```bash
-  npm run build
+ng build
 ```
 
 Start the server
 
 ```bash
-  npm run dev
+ng serve
 ```
 
-Go to http://localhost:3000/
+Go to http://localhost:4200/
 
 ## Running Tests
 
 To run tests, run the following command
 
+### Running unit tests
+
 ```bash
-  npm run test
+ng test
 ```
+
+### Running end-to-end tests
+
+```bash
+ng e2e
+```
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Contributing
 
